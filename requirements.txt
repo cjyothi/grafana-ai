@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+ollama
+requests
+python-dateutil
+pydantic
+python-dotenv
+tiktoken
